@@ -1,0 +1,80 @@
+body{
+    background-color: #0091BE;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 22px;
+}
+td{
+    vertical-align: top;
+}
+ul{
+    list-style: none;
+}
+ul li{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 22px;
+    height: 60px;
+}
+ul li a:hover{
+    margin-left: 10px;
+    color: #000000;
+    background-color: #7B4BE3;
+    box-shadow: 10px 10px 20px #dbbff7;
+    transform: rotate(4deg);
+    -moz-transform: rotate(4deg);
+    -webkit-transform: rotate(4deg);
+}
+ul li a{
+    height: 60px;
+    background-color: #624BE3;
+    display: block;
+    border-left: 10px solid #9B53FD;
+    border-right: 5px solid #5E71FA;
+    padding-left: 15px;
+    text-decoration: none;
+    color: #fafbfc;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+h2{
+    font-family: fantasy;
+    color: #4962F2;
+}
+p{
+    font-family: fantasy;
+    
+}
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #F2F2F2; 
+}
+div{
+    color: #6179F5;
+    height: 100%;
+    height: 100%;
+    padding: 20px 10px 20px 40px;
+    margin: 10px;
+    border: 1px solid #0125F0;
+    background-color: #F2F2F2;
+    border-radius: 15px;
+    border: solid 2px #0125F0;
+    border-radius: 15pz 0px 15px 0px;
+    box-shadow: 2px 2px 5px #0125F0;
+}
+*{
+    padding: 0px;
+    margin: 0px;
+}
+ol li{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+}
+b{
+    color: #9B53FD;
+    font-family:initial;
+}
+div b{
+    color: #7837f9;
+    font-family:fantasy;
+}
